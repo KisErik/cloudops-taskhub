@@ -1,2 +1,2 @@
 # cloudops-taskhub
-Production-orinted DevOps learning project on Google Cloud, featuring FastApi, Terrafrom, Docker, Kubernetes and CI/CD
+Production-oriented DevOps learning project on Google Cloud, featuring FastAPI, Terraform, Docker, Kubernetes and CI/CD
